@@ -16,7 +16,7 @@
 
 ## 🧠 Sobre mí
 
-Llevo más de 10 años en la intersección entre **marketing, producto y tecnología**, construyendo canales de crecimiento para startups y empresas de escala global. Pasé 6 años en **Cornershop by Uber** liderando desde campañas de performance hasta el diseño de productos publicitarios para marcas CPG. Hoy asesoro a startups y construyo proyectos propios donde el marketing se fusiona con la tecnología.
+Llevo más de 14 años en la intersección entre **marketing, producto y tecnología**, construyendo estrategias de crecimiento para startups y empresas de escala global. Pasé 6 años en **Cornershop by Uber** liderando desde campañas de performance hasta el diseño de productos publicitarios para marcas CPG. Hoy asesoro a startups y construyo proyectos propios donde el marketing se fusiona con la tecnología.
 
 Me muevo cómodo entre la estrategia de alto nivel y la ejecución directa — igual diseño un funnel de adquisición que armo una herramienta web para ver los partidos del fin de semana ⚽.
 
@@ -25,7 +25,7 @@ Me muevo cómodo entre la estrategia de alto nivel y la ejecución directa — i
 ## 💼 Trayectoria
 
 ```
-2025 → Presente   Marketing & Growth Advisor          Startups · Fintech · Salud · FMCG
+2025 → Marzo26   Marketing & Growth Advisor          Startups · Fintech · Salud · FMCG
 2023 → 2025       CMO                                 CIF - Fuku Mochi & SushiBlues
 2022 → 2023       Design Manager, Advertising         Cornershop by Uber
 2021 → 2022       Product Designer for CPGs           Cornershop by Uber
