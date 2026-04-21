@@ -6,7 +6,7 @@
 
 **📍 Santiago, Chile &nbsp;|&nbsp; 🌎 LatAm & Global**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielolmedo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/danielolmedo](https://www.linkedin.com/in/danielolmedofuentes/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielolmedo.fuentes@gmail.com)
 [![Sports Clock](https://img.shields.io/badge/Sports_Clock_🏟️-007AFF?style=for-the-badge)](https://daniolmedo.github.io/sports-clock/)
 
