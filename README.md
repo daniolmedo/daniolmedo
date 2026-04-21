@@ -25,7 +25,7 @@ Me muevo cómodo entre la estrategia de alto nivel y la ejecución directa — i
 ## 💼 Trayectoria
 
 ```
-2025 → Marzo26   Marketing & Growth Advisor          Startups · Fintech · Salud · FMCG
+2025 → Marzo26    Marketing & Growth Advisor          Startups · Fintech · Salud · FMCG
 2023 → 2025       CMO                                 CIF - Fuku Mochi & SushiBlues
 2022 → 2023       Design Manager, Advertising         Cornershop by Uber
 2021 → 2022       Product Designer for CPGs           Cornershop by Uber
